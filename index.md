@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy 
 
 Sudarshan Seshadri built the NJAPP Bird Box app as a Free app. This SERVICE is provided by Sudarshan Seshadri at no cost and is intended for use as is.
 
